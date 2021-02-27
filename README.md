@@ -32,7 +32,7 @@ composer install
 
 ## Run the application
 
- **[http://symfony.localhost](http://symfony.localhost)**
+ **[http://localhost](http://localhost)**
 
 Entering the containers
 ```bash
