@@ -36,9 +36,9 @@ composer install
 
 Entering the containers
 ```bash
-docker exec -it -u 1000 symfony_php_fpm /bin/sh
-docker exec -it -u 1000 symfony_mysql /bin/sh
-docker exec -it -u 1000 symfony_nginx /bin/sh
+docker exec -it -u 1000:1000 symfony_php_fpm /bin/sh
+docker exec -it -u 1000:1000 symfony_mysql /bin/sh
+docker exec -it -u 1000:1000 symfony_nginx /bin/sh
 ```
 
 ## SHORTCUTS - MAKEFILE:
