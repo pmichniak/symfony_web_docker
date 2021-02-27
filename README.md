@@ -66,7 +66,7 @@ docker exec -it -u 1000:1000 symfony_nginx /bin/sh
 ```bash
     make enter-db
 ```
--enter into nginx container 
+- enter into nginx container 
 ```bash
     make enter-nginx
 ```    
