@@ -5,7 +5,7 @@
 
 1 - Use this template and clone repository:
 ```dotenv
-Click the button "Use this template" and git clone git@github.com:pmichniak/symfony_docker.git
+Click the button "Use this template" and git clone
 ```
 
 2 - Copy .env.dist to .env and paste your credentials in .env
